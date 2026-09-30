@@ -4,4 +4,4 @@ Repository containing Python implementations and theoretical analysis for Assign
 - Bisection Method
 - Newton's & Modified Newton's Method (with Horner's Method)
 - Fixed Point Iteration Method
-by Zunaira Fahim and Najiba
+- by Zunaira Fahim and Najiba
